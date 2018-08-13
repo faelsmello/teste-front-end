@@ -1,2 +1,2 @@
-# teste-front-end
-Este teste é apresentado aos candidatos as vagas de desenvolvimento Front-end para avaliar os quesitos técnicos.
+# Teste front-end Focomultimídia
+Este teste é apresentado aos candidatos as vaga de desenvolvimento Front-end para avaliar os quesitos técnicos.
