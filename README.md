@@ -23,7 +23,7 @@ O objetivo é criar um app que deve conter no `mínimo` duas páginas, uma que e
 
 Para listagem inicial dos usuários utilizar este recurso abaixo:
 
-> GET https://private-21e8de-rafaellucio.apiary-mock.com/users
+> GET https://raw.githubusercontent.com/faelsmello/teste-front-end/master/db.json
 
 Response:
 
