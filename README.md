@@ -1,3 +1,6 @@
+
+![alt text](http://www.focomultimidia.com/img/logo.png)
+
 # Teste Front-end Focomultimídia
 Este teste é apresentado aos candidatos a vaga de desenvolvedor Front-end para avaliação dos quesitos técnicos.
 
