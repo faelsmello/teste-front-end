@@ -1,7 +1,7 @@
 
 ![alt text](https://swb01fmu.focomultimidia.com/curl/motor_reserva/images/logo.png)
 
-# Teste Front-end Focomultimídia
+# Teste Front-End Focomultimídia
 Este teste é apresentado aos candidatos a vaga de desenvolvedor Front-end para avaliação dos quesitos técnicos.
 
 ### O Desafio
