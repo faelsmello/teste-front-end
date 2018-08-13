@@ -1,0 +1,34 @@
+[{
+        "name": "Rodrigo Carlos Eduardo Vitor Bernardes",
+        "cpf": "68872563550",
+        "phone": "71988473870",
+        "email": "rrodrigocarloseduardovitorbernardes@mac.com",
+        "cep": "40250050",
+        "place": "Travessa Candeias",
+        "bairro": "Cosme de Farias",
+        "city": "Salvador",
+        "uf": "BA"
+    },
+    {
+        "name": "Thomas Tiago Baptista",
+        "cpf": "45111862510",
+        "phone": "71989473446",
+        "email": "thomastiagobaptista..thomastiagobaptista@dr.com",
+        "cep": "40255050",
+        "place": "Avenida Almeida Santos",
+        "Address": "Matatu",
+        "city": "Salvador",
+        "uf": "BA"
+    },
+    {
+        "name": "Davi Edson Erick Ribeiro",
+        "cpf": "34139880503",
+        "phone": "71982833679",
+        "email": "daviedsonerickribeiro__daviedsonerickribeiro@contabilidadelibra.com.br",
+        "cep": "40435050",
+        "place": "Avenida Irmãos Gêmeos",
+        "Address": "Massaranduba",
+        "city": "Salvador",
+        "uf": "BA"
+    }
+]
