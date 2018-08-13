@@ -169,5 +169,5 @@ Response:
  
  - Todo padrão visual fica a seu critério.
  - Disponibilaremos a marcar para download a partir da mesma criar o padrão.
- - O layout precisar se limpo e usual, pensando sempre na responsividade do mesmo.
+ - O layout precisa ser limpo e usual, pensando sempre na responsividade do mesmo.
 
