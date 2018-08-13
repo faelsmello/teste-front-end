@@ -165,12 +165,9 @@ Response:
  - Código limpo e legível.
  - Não COPIE!
 
-## Padrão estético
+## Instruções de estilo
  
- - Padrão de Projeto e boas práticas;
- - Criar uma breve descrição da solução utilizada.
- - Código limpo e legível.
- - Não COPIE!
-
-
+ - Todo padrão visual fica a seu critério.
+ - Disponibilaremos a marcar para download a partir da mesma criar o padrão.
+ - O layout precisar se limpo e usual, pensando sempre na responsividade do mesmo.
 
