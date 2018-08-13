@@ -171,6 +171,6 @@ Response:
 ## Instruções de estilo
  
  - Todo padrão visual fica a seu critério.
- - Disponibilaremos a marcar para download a partir da mesma criar o padrão.
+ - A Marca já está disponível neste projeto.
  - O layout precisa ser limpo e responsivo.
 
