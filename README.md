@@ -136,7 +136,7 @@ Lista local:
 ### Dados do Endereço:
 Para cadastro do endereço usar o serviço do VIA CEP para autocompletar o formulário
 
-> GET https://viacep.com.br/ws/`41275034`/json/
+> GET https://viacep.com.br/ws/41275034/json/
 
 Response:
 ```json
