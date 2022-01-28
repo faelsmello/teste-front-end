@@ -22,7 +22,7 @@ O objetivo é criar um app que deve conter no `mínimo` duas páginas, uma que e
  - Deve ser possível criar, listar e excluir os dados cadastrados pelo formulário;
  - O formulário precisa ter validação;
  - Fazer a persistência dos dados no `localStorage` ou `IndexedDB`;
- - Só é permitido a utilização de dois frameworks: `AngularJS` (preferencialmente) ou Angular2+;
+ - É permitido a utilização de frameworks;
 
 Para listagem inicial dos usuários utilizar este recurso abaixo:
 
